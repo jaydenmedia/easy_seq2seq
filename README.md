@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/badge/python-3-brightgreen.svg) ![](https://img.shields.io/badge/tensorflow-1.3.0-orange.svg)
 
+A revival of the sequence to sequence chatbot known as "easy_seq2seq", which is no longer maintained.
+
 Description written by [the original author of *easy_seq2seq*](https://github.com/suriyadeepan/practical_seq2seq):
 > _"An implementation of Seq2Seq that actually works. I want to make it easy for people to train their own seq2seq model with any corpus. I am also
 > adding the parameters of my trained model for people to just use it without training. If you have a model that works share your model params here, 
