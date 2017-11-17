@@ -14,7 +14,11 @@ Description written by [the original author of *easy_seq2seq*](https://github.co
 
 ## Setup
 
-Install dependencies (Anaconda version of the Python environment)
+Prerequisites:
+  * Recommend using the Anaconda version of the Python environment to ensure all Python package dependencies are met.
+  * This code has not yet been tested in a non-Anaconda environment.
+
+Install dependencies
 
 ```bash
 conda create -n my_environment_name python=3.4 anaconda
