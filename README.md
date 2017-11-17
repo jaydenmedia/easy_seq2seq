@@ -15,8 +15,8 @@ Description written by [the original author of *easy_seq2seq*](https://github.co
 ## Setup
 
 Prerequisites:
-  * Recommend using the Anaconda version of the Python environment to ensure all Python package dependencies are met.
-  * This code has not yet been tested in a non-Anaconda environment.
+  * Recommended to use the Anaconda version of the Python environment.
+  * This code has not yet been tested in a non-Anaconda environment, _but_ it should work all the same with a PIP3 virtualenv setup.
 
 Install dependencies
 
