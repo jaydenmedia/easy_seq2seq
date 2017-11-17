@@ -1,6 +1,6 @@
 # easy\_seq2seq
 
-![](https://img.shields.io/badge/python-3-brightgreen.svg) ![](https://img.shields.io/badge/tensorflow-1.3.0-yellowgreen.svg)
+![](https://img.shields.io/badge/python-3-brightgreen.svg) ![](https://img.shields.io/badge/tensorflow-1.3.0-orange.svg)
 
 Description written by [the original author of *easy_seq2seq*](https://github.com/suriyadeepan/practical_seq2seq):
 > _"An implementation of Seq2Seq that actually works. I want to make it easy for people to train their own seq2seq model with any corpus. I am also
