@@ -27,14 +27,6 @@ conda install -n my_environment_name pip
 pip3 install --upgrade tensorflow
 ```
 
-
-Create temporary working directory prior to training
-
-```bash
-mkdir working_dir
-```
-
-
 Install dependencies for the web stack (GUI interface)
 
 ```bash
@@ -43,6 +35,11 @@ pip3 install -r requirements.txt
 cd ..
 ```
 
+Create temporary working directory prior to training
+
+```bash
+mkdir working_dir
+```
 
 Download test/train data from Cornell Movie Dialog Corpus
 
@@ -51,14 +48,11 @@ cd data/
 bash pull_data.sh
 ```
 
-
 Your own data may be placed into the data/ directory _**after**_ renaming them using the following convention:
 * train.enc
 * train.dec
 * test.enc
 * test.dec
-
-
 
 ## Training
 
@@ -72,7 +66,6 @@ python execute.py
 #		python execute.py my_custom_conf.ini
 ```
 
-
 ## Testing
 
 ```bash
@@ -80,7 +73,6 @@ python execute.py
 #		mode = test
 python execute.py
 ```
-
 
 ## Serve
 
