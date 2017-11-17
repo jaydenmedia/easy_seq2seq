@@ -50,7 +50,7 @@ cd data/
 bash pull_data.sh
 ```
 
-* If you have your own data then copy into the `data/` directory _**after**_ renaming them using the following convention:
+* If you have your own data then place the files into the `data/` directory _**after**_ renaming them using the following convention:
   * train.enc
   * train.dec
   * test.enc
